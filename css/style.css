@@ -61,3 +61,8 @@ nav .container{
 .ctgy3-bg-color{
     background-color: #0000ff;
 }
+
+.card-border{
+    border-radius: 10px;
+    box-shadow: 8px 10px 5px #dededece, -.1em 0 .2em #dedede;
+}
