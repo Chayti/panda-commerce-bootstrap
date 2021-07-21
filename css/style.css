@@ -15,12 +15,17 @@ nav .container{
 .carousel-inner{
     border-radius: 10px;
 }
+
 .carousel-control-prev, .carousel-control-next{
     width: 5%;
 }
 
 .bg-color {
     background-color: #fceae8;
+}
+
+.txt-color{
+    color:#ff3c89;
 }
 
 .btn{
@@ -30,4 +35,20 @@ nav .container{
 }
 .btn a{
     text-decoration: none;
+}
+
+.category-border{
+    border-radius: 10px;
+}
+
+.ctgy1-bg-color{
+    background-color:#ffa500;
+}
+
+.ctgy2-bg-color{
+    background-color: #da70d6;
+}
+
+.ctgy3-bg-color{
+    background-color: #0000ff;
 }
