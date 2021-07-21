@@ -1,0 +1,33 @@
+.container{
+    margin-bottom: 100px;
+    padding: 0;
+}
+
+.navbar{
+    padding-top: 0;
+}
+
+nav .container{
+    background-color: #f8f9fa;
+    padding: 8px 16px;
+}
+
+.carousel-inner{
+    border-radius: 10px;
+}
+.carousel-control-prev, .carousel-control-next{
+    width: 5%;
+}
+
+.bg-color {
+    background-color: #fceae8;
+}
+
+.btn{
+    background-color: #ff3c89;
+    padding: 9px 25px;
+    border-radius: 10px;
+}
+.btn a{
+    text-decoration: none;
+}
