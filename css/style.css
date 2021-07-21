@@ -66,3 +66,9 @@ nav .container{
     border-radius: 10px;
     box-shadow: 8px 10px 5px #dededece, -.1em 0 .2em #dedede;
 }
+
+.subscribe-bg{
+    background-color: #fceae8;
+    border-radius: 10px;
+}
+
